@@ -2,3 +2,5 @@ Paris Resolusi
 -Membuat desain web convert file
 -Membuat sistem database
 -membuat fitur admin
+-membuat fitur payment gateway
+-membuat fitur bahasa
