@@ -1,0 +1,4 @@
+rencana kontent paris
+-Menambahkan fitur login
+-Melakukan clean code
+-Membuat fitur convert video ke mp3
