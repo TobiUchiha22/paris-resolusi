@@ -2,6 +2,8 @@ rencana kontent paris
 -Menambahkan fitur login
  -Melakukan validasi login
  -Menambahkan responsive pada UI login
+ -Menambahkan fitur CD
+ -Menambahkan fitur C
 -Membuat menjadi open source
--Melakukan clean code
+ -Menambahkan fitur B
 -Membuat fitur convert video ke mp3
